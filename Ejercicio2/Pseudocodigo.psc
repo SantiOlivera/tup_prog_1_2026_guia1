@@ -3,7 +3,7 @@ Proceso LasNietas
 	Definir edad1,edad2,edad3,edad4,edades Como Entero;
 	Escribir 'Ingrese el total a repartir';
 	Leer total;
-	Escribir 'Ingrese las edades de cada niña: ';
+	Escribir 'Ingrese las edades de cada niÃ±a: ';
 	Leer edad1,edad2,edad3,edad4;
 	edades <- edad1+edad2+edad3+edad4;
 	porcion <- total/edades;
